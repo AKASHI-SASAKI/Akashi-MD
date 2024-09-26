@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝘼𝙆𝘼𝙎𝙃𝙄-𝙈𝘿;WHATSAPP+☑️++BOT;DEVELOPED+BY+𝙎𝘼𝙎𝘼𝙆𝙄-𝘾𝙊𝙈𝙋𝘼𝙂𝙉𝙔" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝘼𝙆𝘼𝙎𝙃𝙄-𝙈𝘿;WHATSAPP+☑️++BOT;DEVELOPED+BY+𝙎𝘼𝙎𝘼𝙆𝙄" alt="Typing SVG" />
   </a>
 </p>
 
-![Akashi-MD ](https://i.imgur.com/P8F82MF.jpeg)
+![Akashi-MD ](https://imgur.com/a/IfzgrWJ.jpeg)
 <p align="center">
 <a href="https://www.youtube.com/@SSK-FAMILYCAMPAGNY"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@SSK-FAMILYCAMPAGNY" /><br>
 <a href="https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41" /><br>
